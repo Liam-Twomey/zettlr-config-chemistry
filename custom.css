@@ -17,3 +17,5 @@ body div.tab-container{
 /* lighten dark background */
 body.dark .main-editor-wrapper{
   background-color: #50505a;}
+body.dark #file-manager .file-manager-filter{
+    background-color: #000000;}
